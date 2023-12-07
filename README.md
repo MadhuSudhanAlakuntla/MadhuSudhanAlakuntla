@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhu Sudhan</h1>
+
+### 🚀 About Me
+
 <p align="center">- I am a Full stack web developer doing militry style coding and learning MERN Stack at Masai School. I have done various group as well as individual projects in my coding journey.
     I also did my Graduation 🎓 from Sri Venkateswara University 🏛. 
      My interests are coding, reading about planets, browsing, exploring new areas.
@@ -9,12 +12,13 @@
 
 <br>
 <br>
-- 👨‍💻 Portfolio availaible at https://madhusudhanalukuntla.github.io/
 
 - 🌱 I’m currently learning **Full Stack Web Development Programme and DSA at Masai School**
 
 - 📫 How to reach me **madhusudhan03833@gmail.com**
-
+  
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://madhusudhanalukuntla.github.io/)
+  
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-sudhan-794a91283/)
 <br>
 <br>
