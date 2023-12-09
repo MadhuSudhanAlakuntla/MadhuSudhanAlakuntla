@@ -36,9 +36,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhusudhanalukuntla&show_icons=true&locale=en&layout=compact" alt="madhusudhanalukuntla" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhanalukuntla&" alt="madhusudhanalukuntla" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhusudhanalukuntla&show_icons=true&locale=en" alt="madhusudhanalukuntla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhanalukuntla&" alt="madhusudhanalukuntla" /></p>
+
 
 
 ### ✍️ Random Dev Quote
