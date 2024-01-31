@@ -17,22 +17,27 @@
   
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-sudhan-794a91283/)
 
-<h3 align="center">Languages and Tools:</h3>
+
 <br>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="35" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="35" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="35" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="35" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100" height="35" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="35" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="100" height="35" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="35" />
-    <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" width="100" height="35" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="35" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="35" alt="CSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="35" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="35" alt="React"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100" height="35" alt="Redux"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="35" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="100" height="35" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="35" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="ChakraUI">
+    <img src="https://img.shields.io/badge/Vercel-404D59?style=for-the-badge" width="100" height="35" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/Netlify-319795?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+    <img src="https://img.shields.io/badge/Render-404D59?style=for-the-badge" width="100" height="35" alt="Render"/>
+</p>
 </p>
 
+<h3 align="center">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhusudhanalukuntla&show_icons=true&locale=en&layout=compact" alt="madhusudhanalukuntla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhanalukuntla&" alt="madhusudhanalukuntla" /></p>
