@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhu Sudhan [Software Engineer @ Inspiron Labs]</h1>
+<h1 align="center">Hi 👋, I'm Madhu Sudhan</h1>
 <p align="center">- I am a Full stack web developer, I have done militry style coding and learnt MERN Stack at Masai School. I have also done various group as well as individual projects in my coding journey.
     I also did my Graduation 🎓 from Sri Venkateswara University 🏛. 
      My interests are coding, reading about planets, browsing, exploring new areas.
@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Full Stack Web Development Programme and DSA at Masai School**
+- 🌱 "I'm currently employed as a Software Engineer with Inspiron Labs, contributing to impactful projects and solutions."
 
 - 📫 How to reach me **madhusudhan03833@gmail.com**
   
@@ -33,6 +33,8 @@
     <img src="https://img.shields.io/badge/Vercel-404D59?style=for-the-badge" width="100" height="35" alt="Vercel"/>
     <img src="https://img.shields.io/badge/Netlify-319795?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
     <img src="https://img.shields.io/badge/Render-404D59?style=for-the-badge" width="100" height="35" alt="Render"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+
 </p>
 </p>
 
