@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/Netlify-319795?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
     <img src="https://img.shields.io/badge/Render-404D59?style=for-the-badge" width="100" height="35" alt="Render"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 
 </p>
 </p>
