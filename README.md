@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 "I'm currently employed as a Software Engineer with Inspiron Labs, contributing to impactful projects and solutions."
+- 🌱 "I'm currently employed as a Software Engineer at Inspiron Labs, contributing to impactful projects and solutions."
 
 - 📫 How to reach me **madhusudhan03833@gmail.com**
   
