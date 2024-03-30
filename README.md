@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhu Sudhan</h1>
-
-<p align="center">- I am a Full stack web developer doing militry style coding and learning MERN Stack at Masai School. I have done various group as well as individual projects in my coding journey.
+<p align-"center">- Software Engineer @ Inspiron Labs
+<p align="center">- I am a Full stack web developer, I have done militry style coding and learnt MERN Stack at Masai School. I have also done various group as well as individual projects in my coding journey.
     I also did my Graduation 🎓 from Sri Venkateswara University 🏛. 
      My interests are coding, reading about planets, browsing, exploring new areas.
    </p>
