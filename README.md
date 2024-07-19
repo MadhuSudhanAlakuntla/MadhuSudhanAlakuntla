@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **madhusudhan03833@gmail.com**
   
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://madhusudhanalukuntla.github.io/)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://madhusudhanalakuntla.github.io/)
   
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-sudhan-794a91283/)
 
@@ -40,11 +40,11 @@
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhusudhanalakuntla&show_icons=true&locale=en&layout=compact" alt="madhusudhanalukuntla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhusudhanalakuntla&show_icons=true&locale=en&layout=compact" alt="madhusudhanalakuntla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhanalukuntla&" alt="madhusudhanalukuntla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudhanalakuntla&" alt="madhusudhanalakuntla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhusudhanalukuntla&show_icons=true&locale=en" alt="madhusudhanalukuntla" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhusudhanalakuntla&show_icons=true&locale=en" alt="madhusudhanalakuntla" /></p>
 
 
 
