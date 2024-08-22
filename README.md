@@ -34,6 +34,8 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
     <img src="https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 8">
+   <img src="https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge&logo=apache&logoColor=white" width="150" height="35" alt="Microservices"/>
+   <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" width="150" height="35" alt="Apache Kafka"/>
     <img src="https://img.shields.io/badge/Vercel-404D59?style=for-the-badge" width="100" height="35" alt="Vercel"/>
     <img src="https://img.shields.io/badge/Netlify-319795?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
     <img src="https://img.shields.io/badge/Render-404D59?style=for-the-badge" width="100" height="35" alt="Render"/>
